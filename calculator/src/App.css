@@ -1,0 +1,27 @@
+.btn {
+  width:50px ;
+  margin: 10px;
+  margin-left: 0px;
+}
+.rup-b{
+  width: 110px;
+}
+.key-componet{
+  text-align: left;
+  width: 110px;
+}
+input{
+  width: auto;
+}
+.calc-container{
+  border: 2px solid;
+  margin: 40px;
+  width: 280px;
+ text-align: center;
+  
+}
+.rup-r{
+  width: 250px;
+  text-align: right;
+  margin-left: 15px;
+}
